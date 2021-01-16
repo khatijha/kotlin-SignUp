@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#272727</color>
+    <color name="colorPrimaryDark">#121212</color>
+    <color name="colorAccent">#00FF96</color>
+
+    <color name="colorCheckNo">#838287</color>
+    <color name="Text">#838287</color>
+
+    <color name="LowLevel">#FF004E</color>
+    <color name="MediumLevel">#FF8A00</color>
+    <color name="StrongLevel">#1CB777</color>
+
+    <color name="disabled">#38374C</color>
+    <color name="enabled">#60D486</color>
+</resources>
